@@ -4,6 +4,8 @@ Write a program that that allows people to add, drop, and change classes in a mo
 Then, build a larger program around it that builds the schedule for a whole year.
 '''
 
+#hi
+
 d_block = {
     "Fall": "",
     "Winter": "",
