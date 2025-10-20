@@ -1,72 +1,22 @@
 '''
-Write a program that that allows people to add, drop, and change classes in a mod.
-
-Then, build a larger program around it that builds the schedule for a whole year.
+Setting up a version of PA1 that uses files instead of dictionaries
 '''
 
-#hi
+d_block = {}
 
-d_block = {
-    "Fall": "",
-    "Winter": "",
-    "Spring": ""
-}
+mod1 = {}
 
-mod1 = {
-    "A Block": "",
-    "B Block": "",
-    "C Block": "",
-    "D Block": "",
-    "E Block": ""
-}
+mod2 = {}
 
-mod2 = {
-    "A Block": "",
-    "B Block": "",
-    "C Block": "",
-    "D Block": "",
-    "E Block": ""
-}
+mod3 = {}
 
-mod3 = {
-    "A Block": "",
-    "B Block": "",
-    "C Block": "",
-    "D Block": "",
-    "E Block": ""
-}
+mod4 = {}
 
-mod4 = {
-    "A Block": "",
-    "B Block": "",
-    "C Block": "",
-    "D Block": "",
-    "E Block": ""
-}
+mod5 = {}
 
-mod5 = {
-    "A Block": "",
-    "B Block": "",
-    "C Block": "",
-    "D Block": "",
-    "E Block": ""
-}
+mod6 = {}
 
-mod6 = {
-    "A Block": "",
-    "B Block": "",
-    "C Block": "",
-    "D Block": "",
-    "E Block": ""
-}
-
-mod7 = {
-    "A Block": "",
-    "B Block": "",
-    "C Block": "",
-    "D Block": "",
-    "E Block": ""
-}
+mod7 = {}
 
 year = {
     "Mod 1": mod1,
