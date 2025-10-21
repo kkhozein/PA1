@@ -1,0 +1,40 @@
+Mod: 1
+A Block:
+B Block:
+C Block:
+
+
+Mod: 2
+A Block: CS2
+B Block: Design Thinking Lab
+C Block: Free
+
+
+Mod: 3
+A Block:
+B Block:
+C Block:
+
+
+Mod: 4
+A Block:
+B Block:
+C Block:
+
+
+Mod: 5
+A Block:
+B Block:
+C Block:
+
+
+Mod: 6
+A Block:
+B Block:
+C Block:
+
+
+Mod: 7
+A Block:
+B Block:
+C Block:
