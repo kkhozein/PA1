@@ -14,10 +14,12 @@ To create a new file in Python, just open one that doesn't exist in an edit mode
 #new_file = open("new_file.txt","x") #just creates new file
 #new_file.write("HI")
 
-new_file = open("new_file.txt","a") #just creates new file
+new_file = open("new_file.txt","a") #creates new file or adds if already exists
 new_file.write("YO")
 
+new_file.close()
 
+new_file.write("Hello?")
 """
 #write a while loop that looks for "Mod 2"
 #then write a for loop that prints out Mod 2 schedule
